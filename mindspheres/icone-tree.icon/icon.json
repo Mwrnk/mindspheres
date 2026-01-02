@@ -1,0 +1,98 @@
+{
+  "fill" : {
+    "solid" : "extended-gray:1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "solid" : "srgb:0.13333,0.33333,0.37647,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Ellipse 18.svg",
+          "name" : "Ellipse 18",
+          "position" : {
+            "scale" : 3.32,
+            "translation-in-points" : [
+              -134.29296875,
+              -2.625000000000057
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 0.5
+      },
+      "specular" : true,
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "fill" : {
+            "solid" : "srgb:0.92941,0.94118,0.37647,1.00000"
+          },
+          "image-name" : "Ellipse 20.svg",
+          "name" : "Ellipse 20",
+          "position" : {
+            "scale" : 3.32,
+            "translation-in-points" : [
+              -16.54296875,
+              2.624999999999943
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "fill" : {
+            "solid" : "srgb:0.94118,0.50196,0.23529,1.00000"
+          },
+          "image-name" : "Ellipse 19.svg",
+          "name" : "Ellipse 19",
+          "position" : {
+            "scale" : 3.32,
+            "translation-in-points" : [
+              134.29296875,
+              2.624999999999943
+            ]
+          }
+        }
+      ],
+      "lighting" : "individual",
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
