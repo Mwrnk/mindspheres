@@ -1,6 +1,4 @@
-# mindspheres
-
-MVP de um app iOS de diário com três "esferas" para reflexão diária.
+# MindSpheres
 
 ## sobre
 
