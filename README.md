@@ -1,4 +1,5 @@
 # MindSpheres
+<img width="1011" height="850" alt="md" src="https://github.com/user-attachments/assets/9d44d84a-26d5-4da9-b146-b7baa85f103b" />
 
 ## sobre
 
